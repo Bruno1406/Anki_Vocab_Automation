@@ -1,0 +1,4 @@
+# exclude the json key file
+
+*.json
+*.venv
